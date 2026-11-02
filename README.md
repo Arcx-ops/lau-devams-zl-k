@@ -1,5 +1,7 @@
 # Devamsızlık Takibi – LAÜ İngilizce Hazırlık (gayriresmî)
 
+**Uygulamayı aç:** https://arcx-ops.github.io/lau-devams-zl-k/
+
 Lefke Avrupa Üniversitesi İngilizce Hazırlık öğrencileri için devamsızlık hesaplama uygulaması. Telefonda tarayıcıdan açılır, kurulum gerektirmez.
 
 ## Neler yapar
